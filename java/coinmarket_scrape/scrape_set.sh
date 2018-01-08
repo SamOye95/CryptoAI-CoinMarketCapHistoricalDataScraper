@@ -1,0 +1,13 @@
+./get_history.sh -coin cardano      -outfile data/ADA.csv -scrape
+./get_history.sh -coin bitcoin-cash -outfile data/BCH.csv -scrape
+./get_history.sh -coin bitcoin      -outfile data/BTC.csv -scrape
+./get_history.sh -coin ethereum     -outfile data/ETH.csv -scrape
+./get_history.sh -coin iota         -outfile data/IOTA.csv -scrape
+./get_history.sh -coin litecoin     -outfile data/LTC.csv -scrape
+./get_history.sh -coin nem          -outfile data/NEM.csv -scrape
+./get_history.sh -coin neo          -outfile data/NEO.csv -scrape
+./get_history.sh -coin tron         -outfile data/TRX.csv -scrape
+./get_history.sh -coin stellar      -outfile data/XLM.csv -scrape
+./get_history.sh -coin monero       -outfile data/XMR.csv -scrape
+./get_history.sh -coin raiblocks    -outfile data/XRB.csv -scrape
+./get_history.sh -coin ripple       -outfile data/XRP.csv -scrape
