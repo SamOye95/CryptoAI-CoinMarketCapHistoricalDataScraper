@@ -8,9 +8,9 @@ options:
 
 -coin name where name is that in Coinmarketcap with - for space e.g. bitcoin-cash
 
--start date to start from 20130428
+-start date to start from e.g. and default 20130428
 
--end data to end scrape 20130428
+-end data to end scrape e.g. and default 20180107
 
 -outfile csv file to write data to
 
