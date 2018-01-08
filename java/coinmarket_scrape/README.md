@@ -1,4 +1,4 @@
-Implemented in Java, uses libraries JSoup
+Implemented in Java, uses libraries JSoup, IOUtils, Lombok, JSoniter
 
 Build using maven: mvn compile
 
